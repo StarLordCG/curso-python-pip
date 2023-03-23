@@ -10,5 +10,5 @@ python main.py
 or
 ```sh
 cd game
-python main.py
+python3 main.py
 ```
